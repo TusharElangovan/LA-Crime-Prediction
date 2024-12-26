@@ -63,9 +63,8 @@ This comprehensive dataset allows for a detailed exploration of crime trends, vi
 ## How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-repo-url  
-   cd crime-severity-prediction  
+   git clone https://github.com/TusharElangovan/LA-Crime-Prediction
 2. Download the Notebooks:
    ```bash
-   jupyter notebook data_visualization.ipynb  
-   jupyter notebook crime_severity_model.ipynb  
+   jupyter notebook EDA.ipynb  
+   jupyter notebook Model.ipynb  
