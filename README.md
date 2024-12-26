@@ -20,8 +20,8 @@ This comprehensive dataset allows for a detailed exploration of crime trends, vi
    - Project report summarizing the findings, analysis, and recommendations for LAPD resource allocation.  
 
 2. **Notebooks**:  
-   - `data_visualization.ipynb`: Contains exploratory data analysis (EDA) and visualizations to understand crime trends, patterns, and victim demographics.  
-   - `crime_severity_model.ipynb`: Implements the deep learning model used to predict crime severity across LA County regions.  
+   - `EDA.ipynb`: Contains exploratory data analysis (EDA) and visualizations to understand crime trends, patterns, and victim demographics.  
+   - `Model.ipynb`: Implements the deep learning model used to predict crime severity across LA County regions.  
 
 3. **Other Files**:  
    - Preprocessed dataset (if included).  
